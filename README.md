@@ -112,7 +112,7 @@ PASTE YOUR DEMO VIDEO LINK HERE
 
 🌐 Live MVP Link
 
-PASTE YOUR MVP LINK HERE
+https://app-8mywra86jt35.appmedo.com/​
 
 👥 Team
 
