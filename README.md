@@ -108,7 +108,7 @@ Integration with emergency services and NGOs
 
 🎥 Demo Video
 
-PASTE YOUR DEMO VIDEO LINK HERE
+https://drive.google.com/drive/folders/1_yzzMQBEvmabngaTnh0zLB4kGjhGDSfw?usp=sharing
 
 🌐 Live MVP Link
 
